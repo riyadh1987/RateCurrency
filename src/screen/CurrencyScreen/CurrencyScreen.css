@@ -1,0 +1,29 @@
+.currencyContainer {
+  background-color: orange;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 800px;
+}
+
+.currencyList {
+  padding: 5px;
+  margin: 2px;
+  width: "100%";
+  display: flex;
+  width: 800px;
+}
+
+.colorDark {
+  text-align: center;
+  width: 100%;
+  font-weight: 600;
+  color: black;
+}
+
+.currencyContentText {
+  text-align: center;
+  width: 100%;
+  font-weight: 600;
+  color: white;
+}
